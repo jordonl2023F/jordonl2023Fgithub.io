@@ -1,9 +1,9 @@
 :root {
-    --primaryText: #000000;
+    --primaryText: #fff;
     --secondaryText: #0178ff;
     --primary: rgba(0, 66, 248, 0.6);
-    --secondary: rgba(251, 255, 1, 0.6); 
-    --buttonHover: rgba(245, 112, 4, 0.4);
+    --secondary: rgba(255, 255, 255, 0.6); 
+    --buttonHover: rgba(0, 255, 64, 0.4);
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
 
